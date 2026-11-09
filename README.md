@@ -39,3 +39,4 @@ No build step, package manager, or backend server required.
 - **HTML5**: Semantic markup, accessible modal dialogs, inline SVGs.
 - **CSS3**: Pure custom CSS, flexbox/grid layouts, responsive design, dark slate theme.
 - **JavaScript (ES6+)**: Pure vanilla DOM manipulation, date management, state handling, and `localStorage` persistence.
+
